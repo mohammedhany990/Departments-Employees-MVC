@@ -1,0 +1,57 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_RegisterationLayout.cshtml";
+}
+
+<h1>Login</h1>
+
+
+
+<div class="main-agileinfo">
+    <div class="agileits-top">
+        <div asp-validation-summary="All"></div>
+
+        <form asp-action="Login">
+           
+            <input  asp-for="Email" placeholder="Email" required="">
+            <input asp-for="Password" placeholder="Password" required="">
+
+            <div class="wthree-text">
+                <label class="anim">
+                    <input asp-for="RememberMe" required="">
+                    <span>Remember Me?</span>
+                </label>
+                <div class="clear"> </div>
+            </div>
+            <input type="submit" value="Login">
+        </form>
+        
+        <p>Do you wanna login with google! <a asp-action="GoogleLogin"> Login with Google</a></pclass>
+
+        <p>Do you don't have an Account? <a asp-action="Registeration"> Sign up Now!</a></p>
+        <p>Do you forget password? <a asp-action="ForgetPassword"> Forget Password!</a></p>
+    </div>
+    <!-- copyright -->
+    <div class="colorlibcopy-agile">
+        <p>© 2018 Colorlib Signup Form. All rights reserved | Design by <a href="https://colorlib.com/" target="_blank">Colorlib</a></p>
+    </div>
+    <!-- //copyright -->
+    <ul class="colorlib-bubbles">
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
+@section ValidationScriptSection
+    {
+    <partial name="_ValidationScriptsPartial" />
+
+}

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.PL", "Demo.PL\Demo.PL.csproj", "{ECB83B41-7246-4230-9A0B-0070335F7F3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.DAL", "Demo.DAL\Demo.DAL.csproj", "{0D64A5FD-EC10-41D5-824E-A53DF8E0F1A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.BLL", "Demo.BLL\Demo.BLL.csproj", "{611EDBFE-8AD7-46EC-A9D6-58C634C5B950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECB83B41-7246-4230-9A0B-0070335F7F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB83B41-7246-4230-9A0B-0070335F7F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB83B41-7246-4230-9A0B-0070335F7F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB83B41-7246-4230-9A0B-0070335F7F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D64A5FD-EC10-41D5-824E-A53DF8E0F1A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D64A5FD-EC10-41D5-824E-A53DF8E0F1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D64A5FD-EC10-41D5-824E-A53DF8E0F1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D64A5FD-EC10-41D5-824E-A53DF8E0F1A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611EDBFE-8AD7-46EC-A9D6-58C634C5B950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611EDBFE-8AD7-46EC-A9D6-58C634C5B950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611EDBFE-8AD7-46EC-A9D6-58C634C5B950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611EDBFE-8AD7-46EC-A9D6-58C634C5B950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60A17DED-3805-4C8B-9C04-CBE5544F9A04}
+	EndGlobalSection
+EndGlobal
