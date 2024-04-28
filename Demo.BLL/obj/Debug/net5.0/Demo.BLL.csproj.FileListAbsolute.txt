@@ -1,0 +1,15 @@
+E:\CodePractice\C#\Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\CodePractice\C#\Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\CodePractice\C#\Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\CodePractice\C#\Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\CodePractice\C#\Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\CodePractice\C#\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\CodePractice\C#\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodePractice\C#\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\CodePractice\C#\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\CodePractice\C#\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\CodePractice\C#\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\CodePractice\C#\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\CodePractice\C#\Demo Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\CodePractice\C#\Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\CodePractice\C#\Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
